@@ -1,0 +1,33 @@
+body {
+  background: #0a0a0a;
+  color: #fff;
+  font-family: 'Orbitron', Arial, sans-serif;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+  user-select: none;
+}
+
+h1 {
+  margin: 20px 0 10px 0;
+  color: #00fff7;
+  text-shadow:
+    0 0 10px #00fff7,
+    0 0 20px #00fff7,
+    0 0 40px #08f7fe,
+    0 0 80px #00fff7;
+  font-size: 2.2em;
+  letter-spacing: 2px;
+}
+
+#breakout {
+  display: block;
+  margin: 0 auto;
+  background: #161a1d;
+  border: 3px solid #00fff7;
+  border-radius: 16px;
+  box-shadow:
+    0 0 40px #00fff7,
+    0 0 80px #08f7fe,
+    0 0 160px #00fff7;
+}
